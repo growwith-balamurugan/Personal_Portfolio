@@ -18,8 +18,7 @@ This project is a personal portfolio created using HTML and CSS. It is designed 
 - **About:** Information about myself, including an image and bio.
 - **Skills:** A detailed list of my key skills or areas of expertise.
 - **Projects:** Display of my work samples, with project titles, descriptions, and images.
-- **Resume:** A section with a link to download my resume in PDF format.
 - **Contact:** Section containing my contact information.
-- **Footer:** Copyright notice and additional links.
+
 
 
